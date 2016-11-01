@@ -1,2 +1,2 @@
-#new comment added
+#comment changed
 print('Hello, World!')
