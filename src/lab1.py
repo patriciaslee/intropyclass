@@ -1,2 +1,2 @@
-#make some changes
+#made changes
 print('Hello, World!')
