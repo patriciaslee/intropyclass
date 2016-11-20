@@ -1,2 +1,2 @@
-#make some changes
+# Lab1 - Basic "Hello World" program
 print('Hello, World!')
