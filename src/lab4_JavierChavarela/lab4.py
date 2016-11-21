@@ -8,9 +8,9 @@ lab4.py
 '''
 
 
-from W4.BankCustomer import BankCustomer
+import BankCustomer
 
-bankCustomer = BankCustomer("Tom Thumb", 3000000.00)
+bankCustomer = BankCustomer.BankCustomer("Tom Thumb", 3000000.00)
 bankCustomer.withdraw(100.00)
 bankCustomer.deposit(10000.00)
 bankCustomer.withdraw(10000000.00)
